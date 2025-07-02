@@ -4,7 +4,7 @@ A modern, production-ready SaaS landing page built with React, TypeScript, and T
 
 ## 🚀 Live Demo
 
-**Deployed Site:** [https://rise-landingpage.netlify.app](https://rise-landingpage.netlify.app)
+**Deployed Site:** [https://rise-landingpage.netlify.app](https://rise-project2.netlify.app/)
 
 ## ✨ Features
 
